@@ -1,0 +1,30 @@
+[
+  [
+    "CNCF platform maturity",
+    "https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/"
+  ],
+  [
+    "CNCF platforms white paper",
+    "https://tag-app-delivery.cncf.io/whitepapers/platforms/"
+  ],
+  [
+    "Backstage catalog",
+    "https://backstage.io/docs/features/software-catalog/"
+  ],
+  [
+    "Backstage templates",
+    "https://backstage.io/docs/features/software-templates/"
+  ],
+  [
+    "Crossplane",
+    "https://docs.crossplane.io/latest/"
+  ],
+  [
+    "Kubernetes",
+    "https://kubernetes.io/docs/"
+  ],
+  [
+    "OpenTelemetry",
+    "https://opentelemetry.io/docs/"
+  ]
+]
