@@ -1,0 +1,13 @@
+{
+  "services": [
+    {
+      "name": "checkout",
+      "owner": "commerce",
+      "tier": "standard",
+      "replicas": 1,
+      "runbook": "docs/checkout.md",
+      "public": false,
+      "auth": true
+    }
+  ]
+}

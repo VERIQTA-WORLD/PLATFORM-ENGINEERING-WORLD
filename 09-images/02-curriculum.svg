@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+<title id="title">The curriculum stack</title><desc id="desc">Six horizontal layers connect product discovery and systems foundations to contracts, delivery, security, operations and adoption.</desc>
+<rect width="1000" height="430" rx="12" fill="#0b1020"/>
+<g font-family="monospace" font-size="18">
+<rect x="35" y="30" width="930" height="50" rx="4" fill="#344f8c"/><text x="55" y="62" fill="#fff">24 · CAPSTONE / ADOPTION / ARCHITECTURE DEFENSE</text>
+<rect x="35" y="94" width="930" height="50" rx="4" fill="#2c4275"/><text x="55" y="126" fill="#fff">20–23 · DURABLE APIS / CONCURRENCY / SENIOR PRACTICE</text>
+<rect x="35" y="158" width="930" height="50" rx="4" fill="#25385f"/><text x="55" y="190" fill="#fff">14–19 · TRUST / RELIABILITY / RECOVERY / COST / OPERATIONS</text>
+<rect x="35" y="222" width="930" height="50" rx="4" fill="#1f2e50"/><text x="55" y="254" fill="#e5ebff">09–13 · CONTRACTS / RUNTIME / INFRASTRUCTURE / DELIVERY</text>
+<rect x="35" y="286" width="930" height="50" rx="4" fill="#192640"/><text x="55" y="318" fill="#e5ebff">06–08 · WORKSTATION / PRODUCT / SYSTEMS FOUNDATIONS</text>
+<rect x="35" y="350" width="930" height="50" rx="4" fill="#142035"/><text x="55" y="382" fill="#e5ebff">00–05 · FIRST COMMANDS / PYTHON / GIT / HTTP / SQL / TESTS</text>
+</g></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Platform Engineering World</title><desc id="desc">An open learning manual, from developer needs to reliable self-service. A blue layered platform diagram sits beside the title.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#28314a"/></pattern></defs>
+<rect width="1200" height="400" fill="#0b1020"/><rect width="1200" height="400" fill="url(#grid)"/>
+<path d="M48 48H1152M48 352H1152" stroke="#34405c"/>
+<text x="48" y="88" fill="#a4b9ff" font-family="monospace" font-size="13" letter-spacing="3">PLATFORM ENGINEERING WORLD / OPEN MANUAL</text>
+<text x="48" y="158" fill="#87a5ff" font-family="monospace" font-size="44" font-weight="bold">PLATFORM ENGINEERING</text>
+<text x="48" y="213" fill="#f1f4fc" font-family="monospace" font-size="44">WORLD.</text>
+<text x="48" y="270" fill="#c4cede" font-family="sans-serif" font-size="20">Learn the systems. Build the platform. Prove the outcome.</text>
+<text x="48" y="315" fill="#a4b9ff" font-family="monospace" font-size="14">25 PHASES / 62 LESSONS / HANDS-ON EVIDENCE</text>
+<g stroke="#87a5ff" stroke-width="2">
+<path d="M925 260l130-30 100 30-130 35z" fill="#19243d"/><path d="M925 220l130-30 100 30-130 35z" fill="#223157"/>
+<path d="M925 180l130-30 100 30-130 35z" fill="#2a3e70"/><path d="M925 140l130-30 100 30-130 35z" fill="#344f8c"/>
+</g><text x="946" y="325" fill="#a4b9ff" font-family="monospace" font-size="12">A PLATFORM IS A PRODUCT</text>
+</svg>

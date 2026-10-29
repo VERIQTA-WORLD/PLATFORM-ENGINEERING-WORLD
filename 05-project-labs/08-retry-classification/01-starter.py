@@ -1,0 +1,3 @@
+def attempt(operation, max_attempts):
+    """Implement the behavior described in 00-LAB.md."""
+    raise NotImplementedError("Complete the guided stages in 00-LAB.md")

@@ -1,0 +1,66 @@
+[
+  {
+    "number": 3,
+    "name": "catalog-contract",
+    "path": "05-project-labs/03-catalog-contract",
+    "grader": "05-project-labs/03-catalog-contract/03-grade.py",
+    "function": "validate",
+    "artifact": "Contract validator with allow, deny, duplicate and type-boundary evidence."
+  },
+  {
+    "number": 4,
+    "name": "desired-state-controller",
+    "path": "05-project-labs/04-desired-state-controller",
+    "grader": "05-project-labs/04-desired-state-controller/03-grade.py",
+    "function": "plan",
+    "artifact": "Deterministic plan and proof of convergence for managed objects."
+  },
+  {
+    "number": 5,
+    "name": "tenant-authorization",
+    "path": "05-project-labs/05-tenant-authorization",
+    "grader": "05-project-labs/05-tenant-authorization/03-grade.py",
+    "function": "allowed",
+    "artifact": "Tenant/action decision table and negative tests at the mutation boundary."
+  },
+  {
+    "number": 6,
+    "name": "durable-operations",
+    "path": "05-project-labs/06-durable-operations",
+    "grader": "05-project-labs/06-durable-operations/03-grade.py",
+    "function": "accept",
+    "artifact": "Durable scoped request identity, conflict rejection and preserved row count."
+  },
+  {
+    "number": 7,
+    "name": "concurrent-updates",
+    "path": "05-project-labs/07-concurrent-updates",
+    "grader": "05-project-labs/07-concurrent-updates/03-grade.py",
+    "function": "update",
+    "artifact": "Compare-and-set update with a demonstrated stale-writer conflict."
+  },
+  {
+    "number": 8,
+    "name": "retry-classification",
+    "path": "05-project-labs/08-retry-classification",
+    "grader": "05-project-labs/08-retry-classification/03-grade.py",
+    "function": "attempt",
+    "artifact": "Bounded transient retries, immediate permanent rejection and exhaustion evidence."
+  },
+  {
+    "number": 9,
+    "name": "schema-migration",
+    "path": "05-project-labs/09-schema-migration",
+    "grader": "05-project-labs/09-schema-migration/03-grade.py",
+    "function": "migrate",
+    "artifact": "An idempotent expand migration that preserves old readers and new values."
+  },
+  {
+    "number": 10,
+    "name": "verified-recovery",
+    "path": "05-project-labs/10-verified-recovery",
+    "grader": "05-project-labs/10-verified-recovery/03-grade.py",
+    "function": "restore",
+    "artifact": "Byte integrity, pre-write validation and collision preservation."
+  }
+]

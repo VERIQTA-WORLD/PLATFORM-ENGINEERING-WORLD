@@ -1,0 +1,513 @@
+{
+  "version": 2,
+  "lessons": [
+    {
+      "id": "00.01",
+      "phase": "00",
+      "title": "What a platform engineer actually does",
+      "path": "02-lessons/00-starting-from-zero/01-what-a-platform-engineer-actually-does.md",
+      "minutes": 45,
+      "kind": "guided-lesson"
+    },
+    {
+      "id": "00.02",
+      "phase": "00",
+      "title": "Set up a computer for the course",
+      "path": "02-lessons/00-starting-from-zero/02-set-up-a-computer-for-the-course.md",
+      "minutes": 90,
+      "kind": "guided-lesson"
+    },
+    {
+      "id": "00.03",
+      "phase": "00",
+      "title": "Read commands paths and error messages",
+      "path": "02-lessons/00-starting-from-zero/03-read-commands-paths-and-error-messages.md",
+      "minutes": 60,
+      "kind": "guided-lesson"
+    },
+    {
+      "id": "01.01",
+      "phase": "01",
+      "title": "Create inspect and copy files",
+      "path": "02-lessons/01-terminal-and-operating-systems/01-create-inspect-and-copy-files.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "01.02",
+      "phase": "01",
+      "title": "Processes environment variables and ports",
+      "path": "02-lessons/01-terminal-and-operating-systems/02-processes-environment-variables-and-ports.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "01.03",
+      "phase": "01",
+      "title": "Permissions least privilege and safe paths",
+      "path": "02-lessons/01-terminal-and-operating-systems/03-permissions-least-privilege-and-safe-paths.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "02.01",
+      "phase": "02",
+      "title": "Variables strings numbers and booleans",
+      "path": "02-lessons/02-python-automation/01-variables-strings-numbers-and-booleans.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "02.02",
+      "phase": "02",
+      "title": "Lists dictionaries loops and conditions",
+      "path": "02-lessons/02-python-automation/02-lists-dictionaries-loops-and-conditions.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "02.03",
+      "phase": "02",
+      "title": "Functions and meaningful automated tests",
+      "path": "02-lessons/02-python-automation/03-functions-and-meaningful-automated-tests.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "02.04",
+      "phase": "02",
+      "title": "Read JSON write files and handle errors",
+      "path": "02-lessons/02-python-automation/04-read-json-write-files-and-handle-errors.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "03.01",
+      "phase": "03",
+      "title": "Create a repository and make a first commit",
+      "path": "02-lessons/03-git-and-safe-change/01-create-a-repository-and-make-a-first-commit.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "03.02",
+      "phase": "03",
+      "title": "Review a change on a branch",
+      "path": "02-lessons/03-git-and-safe-change/02-review-a-change-on-a-branch.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "03.03",
+      "phase": "03",
+      "title": "Commit compare and revert safely",
+      "path": "02-lessons/03-git-and-safe-change/03-commit-compare-and-revert-safely.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "04.01",
+      "phase": "04",
+      "title": "Run a real HTTP service",
+      "path": "02-lessons/04-web-services-and-networking/01-run-a-real-http-service.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "04.02",
+      "phase": "04",
+      "title": "Send requests and inspect responses",
+      "path": "02-lessons/04-web-services-and-networking/02-send-requests-and-inspect-responses.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "04.03",
+      "phase": "04",
+      "title": "DNS addresses and connection failures",
+      "path": "02-lessons/04-web-services-and-networking/03-dns-addresses-and-connection-failures.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "04.04",
+      "phase": "04",
+      "title": "Health checks configuration and graceful stopping",
+      "path": "02-lessons/04-web-services-and-networking/04-health-checks-configuration-and-graceful-stopping.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "05.01",
+      "phase": "05",
+      "title": "Store inventory in SQLite",
+      "path": "02-lessons/05-data-testing-and-ci/01-store-inventory-in-sqlite.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "05.02",
+      "phase": "05",
+      "title": "Write a test suite that catches a regression",
+      "path": "02-lessons/05-data-testing-and-ci/02-write-a-test-suite-that-catches-a-regression.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "05.03",
+      "phase": "05",
+      "title": "Run repeatable checks before sharing a change",
+      "path": "02-lessons/05-data-testing-and-ci/03-run-repeatable-checks-before-sharing-a-change.md",
+      "minutes": 75,
+      "kind": "guided-lab"
+    },
+    {
+      "id": "06.01",
+      "phase": "06",
+      "title": "A reproducible learning environment",
+      "path": "02-lessons/06-orientation-and-workstation/01-a-reproducible-learning-environment.md",
+      "minutes": 90,
+      "source": "python"
+    },
+    {
+      "id": "06.02",
+      "phase": "06",
+      "title": "Evidence, Git and reproducibility",
+      "path": "02-lessons/06-orientation-and-workstation/02-evidence-git-and-reproducibility.md",
+      "minutes": 90,
+      "source": "git"
+    },
+    {
+      "id": "07.01",
+      "phase": "07",
+      "title": "Discover developer needs",
+      "path": "02-lessons/07-platform-as-a-product/01-discover-developer-needs.md",
+      "minutes": 90,
+      "source": "cncf"
+    },
+    {
+      "id": "07.02",
+      "phase": "07",
+      "title": "Define an MVP and product measures",
+      "path": "02-lessons/07-platform-as-a-product/02-define-an-mvp-and-product-measures.md",
+      "minutes": 90,
+      "source": "dora"
+    },
+    {
+      "id": "08.01",
+      "phase": "08",
+      "title": "Processes, files and interfaces",
+      "path": "02-lessons/08-systems-foundations/01-processes-files-and-interfaces.md",
+      "minutes": 90,
+      "source": "python"
+    },
+    {
+      "id": "08.02",
+      "phase": "08",
+      "title": "Networking, DNS and trust boundaries",
+      "path": "02-lessons/08-systems-foundations/02-networking-dns-and-trust-boundaries.md",
+      "minutes": 90,
+      "source": "kubernetes"
+    },
+    {
+      "id": "09.01",
+      "phase": "09",
+      "title": "Design a service contract",
+      "path": "02-lessons/09-service-contracts-and-catalogs/01-design-a-service-contract.md",
+      "minutes": 90,
+      "source": "backstage"
+    },
+    {
+      "id": "09.02",
+      "phase": "09",
+      "title": "Catalog ownership and lifecycle",
+      "path": "02-lessons/09-service-contracts-and-catalogs/02-catalog-ownership-and-lifecycle.md",
+      "minutes": 90,
+      "source": "backstage"
+    },
+    {
+      "id": "10.01",
+      "phase": "10",
+      "title": "Build and run a container",
+      "path": "02-lessons/10-containers-and-kubernetes/01-build-and-run-a-container.md",
+      "minutes": 90,
+      "source": "docker"
+    },
+    {
+      "id": "10.02",
+      "phase": "10",
+      "title": "Kubernetes health and resource behavior",
+      "path": "02-lessons/10-containers-and-kubernetes/02-kubernetes-health-and-resource-behavior.md",
+      "minutes": 90,
+      "source": "kubernetes"
+    },
+    {
+      "id": "11.01",
+      "phase": "11",
+      "title": "Infrastructure state and change review",
+      "path": "02-lessons/11-infrastructure-and-environments/01-infrastructure-state-and-change-review.md",
+      "minutes": 90,
+      "source": "tofu"
+    },
+    {
+      "id": "11.02",
+      "phase": "11",
+      "title": "Environment boundaries and configuration",
+      "path": "02-lessons/11-infrastructure-and-environments/02-environment-boundaries-and-configuration.md",
+      "minutes": 90,
+      "source": "kubernetes"
+    },
+    {
+      "id": "12.01",
+      "phase": "12",
+      "title": "Build pipelines and release evidence",
+      "path": "02-lessons/12-delivery-and-reconciliation/01-build-pipelines-and-release-evidence.md",
+      "minutes": 90,
+      "source": "slsa"
+    },
+    {
+      "id": "12.02",
+      "phase": "12",
+      "title": "Reconciliation, drift and rollback",
+      "path": "02-lessons/12-delivery-and-reconciliation/02-reconciliation-drift-and-rollback.md",
+      "minutes": 90,
+      "source": "gitops"
+    },
+    {
+      "id": "13.01",
+      "phase": "13",
+      "title": "Golden paths and scaffolding",
+      "path": "02-lessons/13-self-service-and-developer-experience/01-golden-paths-and-scaffolding.md",
+      "minutes": 90,
+      "source": "backstage"
+    },
+    {
+      "id": "13.02",
+      "phase": "13",
+      "title": "Self-service APIs and asynchronous work",
+      "path": "02-lessons/13-self-service-and-developer-experience/02-self-service-apis-and-asynchronous-work.md",
+      "minutes": 90,
+      "source": "cncf"
+    },
+    {
+      "id": "14.01",
+      "phase": "14",
+      "title": "Workload identity and least privilege",
+      "path": "02-lessons/14-identity-and-supply-chain/01-workload-identity-and-least-privilege.md",
+      "minutes": 90,
+      "source": "slsa"
+    },
+    {
+      "id": "14.02",
+      "phase": "14",
+      "title": "Software supply chain and provenance",
+      "path": "02-lessons/14-identity-and-supply-chain/02-software-supply-chain-and-provenance.md",
+      "minutes": 90,
+      "source": "slsa"
+    },
+    {
+      "id": "15.01",
+      "phase": "15",
+      "title": "Policy as an explainable contract",
+      "path": "02-lessons/15-policy-and-tenancy/01-policy-as-an-explainable-contract.md",
+      "minutes": 90,
+      "source": "kubernetes"
+    },
+    {
+      "id": "15.02",
+      "phase": "15",
+      "title": "Multi-tenancy and noisy neighbors",
+      "path": "02-lessons/15-policy-and-tenancy/02-multi-tenancy-and-noisy-neighbors.md",
+      "minutes": 90,
+      "source": "kubernetes"
+    },
+    {
+      "id": "16.01",
+      "phase": "16",
+      "title": "Signals and user-centered observability",
+      "path": "02-lessons/16-observability-and-reliability/01-signals-and-user-centered-observability.md",
+      "minutes": 90,
+      "source": "otel"
+    },
+    {
+      "id": "16.02",
+      "phase": "16",
+      "title": "SLOs, error budgets and incident decisions",
+      "path": "02-lessons/16-observability-and-reliability/02-slos-error-budgets-and-incident-decisions.md",
+      "minutes": 90,
+      "source": "sre"
+    },
+    {
+      "id": "17.01",
+      "phase": "17",
+      "title": "Backups, restore and integrity",
+      "path": "02-lessons/17-data-and-recovery/01-backups-restore-and-integrity.md",
+      "minutes": 90,
+      "source": "sre"
+    },
+    {
+      "id": "17.02",
+      "phase": "17",
+      "title": "Database changes and disaster recovery",
+      "path": "02-lessons/17-data-and-recovery/02-database-changes-and-disaster-recovery.md",
+      "minutes": 90,
+      "source": "sre"
+    },
+    {
+      "id": "18.01",
+      "phase": "18",
+      "title": "Cost allocation and unit economics",
+      "path": "02-lessons/18-cost-and-capacity/01-cost-allocation-and-unit-economics.md",
+      "minutes": 90,
+      "source": "finops"
+    },
+    {
+      "id": "18.02",
+      "phase": "18",
+      "title": "Capacity, autoscaling and load tests",
+      "path": "02-lessons/18-cost-and-capacity/02-capacity-autoscaling-and-load-tests.md",
+      "minutes": 90,
+      "source": "kubernetes"
+    },
+    {
+      "id": "19.01",
+      "phase": "19",
+      "title": "Support, incidents and on-call",
+      "path": "02-lessons/19-platform-operations-and-evolution/01-support-incidents-and-on-call.md",
+      "minutes": 90,
+      "source": "sre"
+    },
+    {
+      "id": "19.02",
+      "phase": "19",
+      "title": "Versioning, migrations and deprecation",
+      "path": "02-lessons/19-platform-operations-and-evolution/02-versioning-migrations-and-deprecation.md",
+      "minutes": 90,
+      "source": "cncf"
+    },
+    {
+      "id": "20.01",
+      "phase": "20",
+      "title": "From a command to an HTTP control plane",
+      "path": "02-lessons/20-durable-self-service/01-from-a-command-to-an-http-control-plane.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 11
+    },
+    {
+      "id": "20.02",
+      "phase": "20",
+      "title": "Transactions idempotency and duplicate requests",
+      "path": "02-lessons/20-durable-self-service/02-transactions-idempotency-and-duplicate-requests.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 6
+    },
+    {
+      "id": "20.03",
+      "phase": "20",
+      "title": "Tenant quotas and authorization at the boundary",
+      "path": "02-lessons/20-durable-self-service/03-tenant-quotas-and-authorization-at-the-boundary.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 5
+    },
+    {
+      "id": "21.01",
+      "phase": "21",
+      "title": "Prevent lost updates with revision guards",
+      "path": "02-lessons/21-concurrency-and-control-loops/01-prevent-lost-updates-with-revision-guards.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 7
+    },
+    {
+      "id": "21.02",
+      "phase": "21",
+      "title": "Converge desired state without duplicate effects",
+      "path": "02-lessons/21-concurrency-and-control-loops/02-converge-desired-state-without-duplicate-effects.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 4
+    },
+    {
+      "id": "21.03",
+      "phase": "21",
+      "title": "Classify retryable failures and bound work",
+      "path": "02-lessons/21-concurrency-and-control-loops/03-classify-retryable-failures-and-bound-work.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 8
+    },
+    {
+      "id": "22.01",
+      "phase": "22",
+      "title": "Test a platform across its interfaces",
+      "path": "02-lessons/22-platform-quality-and-evidence/01-test-a-platform-across-its-interfaces.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 11
+    },
+    {
+      "id": "22.02",
+      "phase": "22",
+      "title": "Use telemetry to make a release decision",
+      "path": "02-lessons/22-platform-quality-and-evidence/02-use-telemetry-to-make-a-release-decision.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 11
+    },
+    {
+      "id": "22.03",
+      "phase": "22",
+      "title": "Review a policy change without breaking every team",
+      "path": "02-lessons/22-platform-quality-and-evidence/03-review-a-policy-change-without-breaking-every-team.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 3
+    },
+    {
+      "id": "23.01",
+      "phase": "23",
+      "title": "Evolve data while preserving old clients",
+      "path": "02-lessons/23-senior-platform-practice/01-evolve-data-while-preserving-old-clients.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 9
+    },
+    {
+      "id": "23.02",
+      "phase": "23",
+      "title": "Recover a control plane and verify user work",
+      "path": "02-lessons/23-senior-platform-practice/02-recover-a-control-plane-and-verify-user-work.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 10
+    },
+    {
+      "id": "23.03",
+      "phase": "23",
+      "title": "Defend an architecture and lead adoption",
+      "path": "02-lessons/23-senior-platform-practice/03-defend-an-architecture-and-lead-adoption.md",
+      "minutes": 180,
+      "kind": "implementation-lab",
+      "project": 11
+    },
+    {
+      "id": "24.01",
+      "phase": "24",
+      "title": "Capstone: a supported service path",
+      "path": "02-lessons/24-capstones-and-organizational-adoption/01-capstone-a-supported-service-path.md",
+      "minutes": 360,
+      "source": "cncf"
+    },
+    {
+      "id": "24.02",
+      "phase": "24",
+      "title": "Capstone: adoption and architecture defense",
+      "path": "02-lessons/24-capstones-and-organizational-adoption/02-capstone-adoption-and-architecture-defense.md",
+      "minutes": 360,
+      "source": "cncf"
+    }
+  ]
+}

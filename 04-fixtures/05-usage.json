@@ -1,0 +1,12 @@
+[
+  {
+    "owner": "commerce",
+    "hours": 24,
+    "hourly_rate": 0.12
+  },
+  {
+    "owner": "search",
+    "hours": 24,
+    "hourly_rate": 0.2
+  }
+]
