@@ -2,7 +2,7 @@
 
 # Platform Engineering World
 
-A public, follow-along learning repository for people beginning with no platform engineering experience. Learn the computing foundations, build working software, assemble platform capabilities, operate them through failures, and practice the judgment required for senior-level platform work.
+A learning repository for people beginning with no platform engineering experience. Learn the computing foundations, build working software, assemble platform capabilities, operate them through failures, and practice the judgment required for senior-level platform work.
 
 **[Begin lesson 00.01](02-lessons/00-starting-from-zero/01-what-a-platform-engineer-actually-does.md) · [All 62 lessons](01-COURSE-MAP.md) · [Project labs](05-project-labs/00-PROJECT-MAP.md) · [Learning milestones](01-guides/13-beginner-to-senior.md)**
 
